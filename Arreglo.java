@@ -1,6 +1,7 @@
 import java.util.Scanner;
  
 public class TestArreglos {
+//Se creo un progrma de Arreglos
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);
 		float promedio = 0;
