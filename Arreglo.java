@@ -4,6 +4,7 @@ public class TestArreglos {
 //Se creo un progrma de Arreglos
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);
+//aqui van las varibles globales de este prigrma arreglos
 		float promedio = 0;
 		float suma = 0;
 		int mayor = 0;
